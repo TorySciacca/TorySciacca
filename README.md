@@ -1,3 +1,3 @@
-Hello, I’m @TorySciacca, an artist/programmer. Currently learning game dev, web dev, python and UI/UX design. 
+Hello, I’m @TorySciacca, a designer and programmer. I love UI/UX design but don't mind getting my hands dirty with code. 
 
 Feel free to reach me via email at torysciacca@gmail.com.
